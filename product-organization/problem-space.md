@@ -9,23 +9,23 @@ With this, we create the core vision, and the quintessential pillars of success 
 
 *"Modern ML development teams experiment, build, and productionize ML products from ML platforms."*
 
-### The Workflow from Ideation to Production Must be Realized Within the Platform's Core Services
+### Realization: The Workflow from Ideation to Production Must be Realized Within the Platform's Core Services
 
 *"Platform teams need to engineer the ML development lifecycle into orchestrated steps that can accelerate a products team's ability to deliver value to customers faster with more ease and at higher quality."*
 
-### The Simplicity of User Experience is Paramount; A Successful Platform Reduces Both Complexity and Repetition    
+### Realization: The Simplicity of User Experience is Paramount; A Successful Platform Reduces Both Complexity and Repetition    
 
 *"ML Platforms need scalable and reliable access to data."*
 
-### Storage
+### Realization: To Efficiently Access and
 
 *"..GPU infrastructure with comprehensive job scheduling keeping private cluster utilization high and public cloud-optimized"*
 
-###
+### Realization:
 
 *"..they need tools and services that help manage training pipelines, track, log, and report on experiments, and streamline the release of models to production for many flavours of production inference"*
 
-### Innovation requires the tools of creative process; 
+### Realization: Innovation requires the tools of creative process; 
 
 *"..lead the platform product vision for three groups of software engineers and architects specializing in Data, Infrastructure, and ML software development."*
 
