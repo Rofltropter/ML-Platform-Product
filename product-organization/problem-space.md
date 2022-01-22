@@ -25,11 +25,13 @@ With this, we create the core vision, and the quintessential pillars of success 
 
 ***"..they need tools and services that help manage training pipelines, track, log, and report on experiments, and streamline the release of models to production for many flavours of production inference"***
 
-### *Realization: Enable The Creatives* Innovation requires the tools of creative process;
+### *Realization: Enable The Creatives* - Innovation requires the tools of creative process;
 
 ***"..lead the platform product vision for three groups of software engineers and architects specializing in Data, Infrastructure, and ML software development."***
 
-### *Realization: Human Centered Design & Management* - The Vector Of Solution Approach And Team Organization Is Core to Platform Success
+### *Realization: Human Centered Design & Management*
+
+#### The Vector Of Solution Approach And Team Organization Is Core to Platform Success
 
 
 ##
