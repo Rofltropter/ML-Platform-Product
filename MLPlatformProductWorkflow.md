@@ -48,7 +48,7 @@ Work Flow:
 - Segregate Platform Suite into Core Services (Build DAG for Service Organization)
 - Creating AD pages for each Core Service
 - Draft Features for each Core Service
-
+- Create SWOT Analysis of Borealis AI
 - Organize Accomplishments across goals
 
 
@@ -90,9 +90,9 @@ Experiment Management Service: Weights and Biases (already purchased by Borealis
 Hyperparameter tuning service: AirFlow (used in Public cloud by the Brain). Also does their end to end training, DAG and (soon enough) their notebook deployment automation. Currently deployed on-prem by (notably) CM Compute Fabric (*AIDiract)
 
 
+Data Visualization: ROC Curve and AUC,
 
-
-Data storage: Datalakes and S3 on prem (heavily used) vs. S3 at AWS (lesser usage)
+Data storage: Datalakes and S3 on prem (heavily used) vs. S3 at AWS (lesser usage). Portworx for in-cluster
 
 Chargeback: Cloud Ability and native AWS chargeback help
 
@@ -181,3 +181,15 @@ With Red Hat Openshift Service on AWS (ROSA), we can unify (and automate) develo
 ### How will you attract customers? And how will you make the platform core to the ML Development lifecycle?
 
 ### Borealis AI partners with other ML Platform teams from Capital Markets and RBC Technology & Operations to help build a centralized ML Platform that can serve a broader range of Data scientists across the bank. Describe a stakeholder management strategy to help position our platform to provide value for the bank as a whole?
+
+
+Features and Platform architecture
+- Spring Discovery Planning
+- Customer Journey, storyboarding
+- Major Features (Platform Suite DAG)
+  - Platform Reference Architecture
+  - Brief Exploration of Platform Service Architecture
+- Cross-Bank Strategy
+- Migration between V1 -> V2
+- Team Orchestration
+- O

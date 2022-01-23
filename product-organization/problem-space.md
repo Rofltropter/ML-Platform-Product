@@ -30,7 +30,7 @@ With this, we create the core vision, and the quintessential pillars of success 
 ***"Platform teams need to engineer the ML development lifecycle into orchestrated steps that can accelerate a products team's ability to deliver value to customers faster with more ease and at higher quality."***
 
 
-### 3. *Pillar: Data Availability* - Realization: Data Must be Distributed and Collected in a Readily Accessible and Growth-resilient Manner 
+### 3. *Pillar: Data Availability* - Realization: Data Must be Distributed and Collected in a Readily Accessible and Growth-resilient Manner
 
 ***"ML Platforms need scalable and reliable access to data."***
 
@@ -49,6 +49,7 @@ With this, we create the core vision, and the quintessential pillars of success 
 
 ***"..lead the platform product vision for three groups of software engineers and architects specializing in Data, Infrastructure, and ML software development."***
 
+-
 
 ## Core Vision Statements
 
